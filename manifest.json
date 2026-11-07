@@ -1,0 +1,34 @@
+{
+  "manifest_version": "1.0",
+  "org": "fastai",
+  "repo": "nbdev-hello-world",
+  "versions": [
+    {
+      "commit": "da3c08d0ffcc9e1744a4fc0b5ceffa741a912dc8",
+      "parsed_at": "2026-11-07T02:26:12.634234+00:00",
+      "filetree": "filetree/da3c08d0ffcc9e1744a4fc0b5ceffa741a912dc8.nq.gz",
+      "blobs": [
+        "blob/0a6dfcb2f20aeeb3b9b36e44d534c646114dc302.nq.gz",
+        "blob/f102a9cadfa89ce554b3b26d2b90bfba2e05273c.nq.gz",
+        "blob/b1411d10d3859c5b0a996e1ea0d3a14dc0d49e41.nq.gz",
+        "blob/5c0e7ced193cb35aee60cbadc3e022a1da0fd8cc.nq.gz",
+        "blob/6552cc5da9d5ec82c8562804039b51283739ae48.nq.gz",
+        "blob/6671b7136caeebf6c0e1b14a5cda881d181a5333.nq.gz",
+        "blob/66ccc49ee8f0e73901dac02dc4e9224b7d1b2c78.nq.gz",
+        "blob/acb24ac803bafae9c7ea6e28a8dc9af3c7365d00.nq.gz",
+        "blob/56085923ac597c0618c5b3a9d710487ed4eef03c.nq.gz",
+        "blob/631e561feb0d1af7c629a588e5e0e5cc1f7406fa.nq.gz",
+        "blob/5f112e28c3a6dc6f8e7df0d6edce550d5bcc474d.nq.gz",
+        "blob/68a7b319e1465d97bab28b03e8e0b66439f8ee4c.nq.gz",
+        "blob/cd6d7dfb5f2bab2af1dcd4c2423bb5a853cd525b.nq.gz",
+        "blob/3b106e87c0610102b42d042be9c79bc967c84503.nq.gz",
+        "blob/e3281ae9bd7b98568e77014dba1b7b353d409205.nq.gz",
+        "blob/23926d531870596b1947435d2cfbc338621bdeae.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
