@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/fastai/nbdev-hello-world/commit/da3c08d0ffcc9e1744a4fc0b5ceffa741a912dc8",
       "git:hexsha": "da3c08d0ffcc9e1744a4fc0b5ceffa741a912dc8",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
